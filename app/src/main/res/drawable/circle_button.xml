@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E3D3B5" /> <!-- Color beige -->
+    <corners android:radius="28dp" /> <!-- Radio para un círculo perfecto -->
+    <stroke
+        android:width="2dp"
+        android:color="#A89E8F" /> <!-- Borde opcional más oscuro -->
+</shape>
